@@ -1,0 +1,10 @@
+{
+    "name": "CineVision Manual",
+    "description": "Extensão personalizada para indexação do CineVision",
+    "version": 1,
+    "apiLevel": 3,
+    "providerClass": "com.cinevision.plugin.CineVisionPlugin",
+    "tvType": ["Movie", "TvSeries"],
+    "language": "pt-BR"
+}
+
