@@ -1,0 +1,9 @@
+{
+    "name": "CineVision Repository",
+    "description": "Custom extension repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://githubusercontent.com"
+    ]
+}
+
